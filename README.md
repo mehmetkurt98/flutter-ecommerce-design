@@ -1,16 +1,6 @@
-# flutter_eticaret_uyg
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/56899039/235154702-b37408e0-6d06-46ed-909b-0560aaf21ccc.png" alt="Image Description" width="400" >
+<img src="https://user-images.githubusercontent.com/56899039/235154727-3972df0d-ad54-4bb5-aae0-c7485769c2fe.png" alt="Image Description" width="400" >
+<img src="https://user-images.githubusercontent.com/56899039/235154753-01cd3077-b7aa-40d8-8da4-aead14afb343.png" alt="Image Description" width="400" >
+</p>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
